@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=30&duration=2500&pause=2000&color=008500&center=true&vCenter=true&width=226&height=35&lines=About+me" alt="Typing SVG" /></a>
-  <p>Developer and student with interest in Software Development. Currently in the 4th semester of a Bachelor's degree in Information Systems at PUCPR, gaining experience with widely used technologies as well as important concepts in computing.</p>
+  <p>Developer and student with interest in Software Development. Currently in the 4th semester of a Bachelor's degree in  <br> Information Systems at PUCPR, gaining experience with widely used technologies as well as important concepts in computing.</p>
 </div>
 
 <br><br>
